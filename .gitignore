@@ -1,0 +1,8 @@
+# 원본(평문)과 비밀번호는 절대 push 하지 않음 — 암호화된 index.html 만 배포
+src/
+.password
+node_modules/
+*.png
+lab-wiki.zip
+*.zip
+.staticrypt.json
